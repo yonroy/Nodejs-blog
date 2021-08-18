@@ -24,9 +24,9 @@
     "url": "https://github.com/yonroy/Nodejs-blog/issues"
   },
   "homepage": "https://github.com/yonroy/Nodejs-blog#readme",
-  "husky":{
-    "hooks":{
-         "pre-commit": "lint-staged"
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged":{
